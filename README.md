@@ -51,4 +51,4 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Plotly, GeoPandas, SciPy
 [Inside Airbnb](http://insideairbnb.com) — Bangkok, Central Thailand (September 2025)
 
 ## Author
-Eya — Data Science Portfolio Project 1
+Eya 
